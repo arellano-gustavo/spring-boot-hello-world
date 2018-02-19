@@ -1,5 +1,5 @@
 # spring-boot-hello-world
-Proyecto que ejemplifica el uso de SpringBoot
+Proyecto que ejemplifica el uso de SpringBoot y que además, contempla la inclusión de Swagger, para poder documentar e inspeccionar cada uno de los servicios REST que este proyecto expone.
 
 Para poder ejecutar este proeycto sigue los siguientes pasos:
 <ul>
